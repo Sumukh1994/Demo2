@@ -1,2 +1,3 @@
 Select product_id
 from product
+where product_id=1
